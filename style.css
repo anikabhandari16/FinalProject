@@ -1,0 +1,71 @@
+html{
+  background-color:  #9c8de8
+}
+
+.centerText{
+  text-align: center
+}
+
+#title{
+  color:   #FF5733 
+}
+
+#container{
+  margin-left: 32px;
+  display: flex;
+  justify-content: space-evenly
+}
+/*hovering over text to change the color*/
+#projectText:hover{
+  cursor:  pointer;
+  color: #faf9ff 
+}
+
+#techText:hover{
+  cursor:  pointer;
+  color: #faf9ff 
+}
+
+#projectList{
+  text-align: center;
+  margin-top: 12px;
+  
+}
+
+#techList{
+  text-align: center;
+  margin-top: 12px;
+    color: black
+    
+}
+
+.linkText{
+  color: #faf9ff; 
+}
+
+#image{
+   margin-left: 60px;
+    height:200px;
+    transform: rotate(90deg)
+}
+
+#image1{
+    margin-left: 120px;
+    height: 200px
+}
+
+#image2{
+    margin-left: 50px;
+    height: 200px
+}
+#image3{
+    margin-left: 50px;
+    height: 150px;
+    transform: rotate(90deg)
+}
+#image4{
+    margin-left: 50px;
+    height: 200px;
+    transform: rotate(360deg)
+}
+}
